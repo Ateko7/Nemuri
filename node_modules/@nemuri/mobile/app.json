@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Nemuri",
+    "slug": "nemuri",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
